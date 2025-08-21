@@ -14,3 +14,5 @@ Built a complete, responsive, and interactive web application with smooth UI fea
 A major milestone in applying all the concepts learned during the internship.
 
 OUTPUT:
+
+<img width="1377" height="911" alt="Image" src="https://github.com/user-attachments/assets/63baecbb-785c-4547-9b13-ae59b87a1037" />
